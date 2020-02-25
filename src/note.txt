@@ -1,0 +1,7 @@
+function lebih cepat dari pada class
+state = variable
+props = properti/atribut
+
+
+TUGAS
+todo list
